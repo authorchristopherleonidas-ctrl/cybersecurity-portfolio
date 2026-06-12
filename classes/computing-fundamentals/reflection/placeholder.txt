@@ -6,14 +6,13 @@
 **Instructor:** Robert Loomis & Roman Motes
 
 ## What I Learned
-In this course, I learned the basics of computing, including hardware, operating systems, and networking. I also explored how AI can be used in technology projects.
+In this course, I learned the fundamental concepts of computing, including how hardware and software work together to create functional computer systems. I explored topics such as the CPU, memory, storage devices, and operating systems. I also gained a basic understanding of networking concepts and how devices communicate with each other. One of the most valuable experiences was working on the Designing with AI project, where I applied technology to solve real-world problems. This helped me understand how modern computing systems integrate artificial intelligence with core computing principles.
 
 ## What Challenged Me
-One challenge was understanding networking concepts. I worked through it by reviewing materials and practicing examples.
+One of the biggest challenges I faced in this course was understanding networking concepts, especially how data moves between devices using protocols and IP addresses. At first, these ideas were confusing, but I improved by reviewing the course material, practicing examples, and taking time to break down each concept step by step. Another challenge was learning new technical terms and understanding how different components interact inside a computer system. If I could do something differently, I would spend more time practicing earlier in the course instead of waiting until I felt stuck.
 
 ## How This Connects to My Career Goals
-This course is important for cybersecurity because it builds a foundation in how systems work, which helps identify and prevent security issues.
+This course is important for my future career in cybersecurity because it provides a strong foundation for understanding how systems operate. In cybersecurity, it is essential to know how hardware, software, and networks function in order to identify vulnerabilities and protect systems from attacks. The skills I learned in this course will help me as I continue to study more advanced cybersecurity topics and work toward certifications such as CompTIA Security+. This knowledge is critical for roles such as a security analyst or SOC analyst.
 
 ## What I Want to Learn Next
-I want to learn more about cybersecurity tools and network security, and continue improving my technical skills.
-`
+Moving forward, I want to expand my knowledge of cybersecurity, especially in areas like network security and threat detection. I am interested in learning how real-world attacks happen and how professionals defend against them. I also want to continue improving my technical skills by working with tools, practicing labs, and building more projects. Additionally, I want to explore more advanced topics such as ethical hacking and penetration testing to further prepare for a career in cybersecurity.
