@@ -1,1 +1,6 @@
-blank
+# Designing with AI Project Summary
+
+In this project, I explored how AI can be used to solve real-world problems. I worked on applying AI tools to improve efficiency and decision-making.
+
+This project helped me understand how artificial intelligence connects with basic computing concepts like data processing and system design.
+`
