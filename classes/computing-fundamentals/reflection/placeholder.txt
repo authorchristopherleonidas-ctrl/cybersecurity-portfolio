@@ -1,1 +1,19 @@
-blank
+# Week 5 Reflection — Computing Fundamentals
+
+**Student:** Christopher Leonidas  
+**Date:** June 12, 2026  
+**Course:** Computing Fundamentals  
+**Instructor:** Robert Loomis & Roman Motes
+
+## What I Learned
+In this course, I learned the basics of computing, including hardware, operating systems, and networking. I also explored how AI can be used in technology projects.
+
+## What Challenged Me
+One challenge was understanding networking concepts. I worked through it by reviewing materials and practicing examples.
+
+## How This Connects to My Career Goals
+This course is important for cybersecurity because it builds a foundation in how systems work, which helps identify and prevent security issues.
+
+## What I Want to Learn Next
+I want to learn more about cybersecurity tools and network security, and continue improving my technical skills.
+`
